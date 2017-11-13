@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ConnectionFactory.java&apos; to &apos;fj21-jdbc/src&apos;&#x0D;&#x0A;- Original project: &apos;Carla&apos;&#x0D;&#x0A;- Destination element: &apos;fj21-jdbc/src&apos;&#x0D;&#x0A;- Original element: &apos;ConnectionFactory.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=fj21-jdbc/src" element1="ConnectionFactory.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1502211018612" units="0" version="1.0"/>
+</session>

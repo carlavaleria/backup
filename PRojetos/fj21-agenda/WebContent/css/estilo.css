@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+#cabecalho{
+	width: 100%;
+	height: 50px;
+	background-color:silver;
+
+}
+
+p{
+ text-align: center;
+ color: white;
+ font-family: Caladea;
+ font-size: 30px;
+ padding: 8px;
+}
+
+#rodape{
+	width: 100%;
+	height: 50px;
+	background-color:silver;
+
+}
+
+#conteudo{
+	
+	width: 100%;
+	height: 50px;
+	background-color:blue;
+}
